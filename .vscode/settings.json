@@ -1,3 +1,3 @@
 {
-    "omnisharp.loggingLevel": "error"
+    "omnisharp.projectLoadTimeout": 600
 }
